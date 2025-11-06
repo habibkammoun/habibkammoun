@@ -1,8 +1,14 @@
-# Med Habib Kammoun
+# Mohamed Habib Kammoun 👋
 
-👋 **Bienvenue sur mon GitHub !**
+**Bienvenue sur mon GitHub !**  
+Je suis un **jeune diplômé en ingénierie des données**, actuellement en **Master 2 IA & Data Science à l’Université de Montpellier (2025-2026)**. Passionné par l'intelligence artificielle, le machine learning et le deep learning, j'ai contribué à des projets stimulants mêlant analyse de données, NLP, développement full-stack et solutions d'IA générative.
 
-Je suis un **étudiant en ingénierie des données** passionné par l'intelligence artificielle, le machine learning et le deep learning. J'ai contribué à des projets stimulants mêlant analyse de données, NLP, développement full-stack et solutions d'optimisation.
+---
+
+## 🎓 Formation
+
+- **Master 2 IA & Data Science** – Université de Montpellier (2025-2026)  
+- **Cycle d’ingénieur en informatique, Ingénierie des Données** – Université de Sfax
 
 ---
 
@@ -11,36 +17,42 @@ Je suis un **étudiant en ingénierie des données** passionné par l'intelligen
 ### Développement Web
 - **Frontend :** HTML, CSS, JavaScript, Angular, React.js, Tailwind CSS  
 - **Backend :** Node.js, Express.js, REST API, Socket.io  
-- **Bases de données :** MongoDB, MySQL  
+- **Bases de données :** MongoDB, MySQL, Elasticsearch
 
 ### IA & Machine Learning
-- **Frameworks :** TensorFlow, PyTorch, Transformers  
-- **Big Data :** Apache Hadoop, Apache Spark  
+- **Frameworks :** TensorFlow, PyTorch, Transformers, HuggingFace  
+- **Big Data :** Apache Hadoop, Apache Spark, Kafka  
 - **Analyse :** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **NLP :** TF-IDF, Word2Vec, DeepFace, EmoPy  
+- **NLP :** TF-IDF, Word2Vec, DeepFace, EmoPy, LLMs (GPT, Mistral, LLaMA)
 
 ### Outils & Méthodes
-- Docker, GitHub, Keycloak, Agile/Scrum
+- Docker, GitHub, GitLab, CI/CD, Jenkins, Kibana, Grafana, Agile/Scrum
 
 ---
 
 ## 🌟 Projets Notables
 
-### 🔍 **Moteur de Recherche pour Fuites Publiques**
-- Développement d'un pipeline automatisé pour le nettoyage et l'indexation des données avec un cluster ELK.
-- Utilisation de modèles de langage (BERT, Transformers) pour automatiser la détection des fuites.
+### 🧠 Système d’Évaluation de l’e-Réputation – MEELO (Mars 2025 – Août 2025)
+- Développement d’un pipeline NLP complet avec HuggingFace, OpenAI et Vertex AI.
+- Fine-tuning de modèles (CamemBERT, DistilCamemBERT) et utilisation de LLMs (GPT-4, Mistral 7B).
+- Création de modèles de régression légers et visualisations interactives (wordclouds, nuages d’adjectifs).
 
-### 🤖 **Chatbot Intelligent en Arabe**
-- Fine-tuning de modèles LLMs (LLaMA, Mistral) pour optimiser les performances du chatbot.
-- Scraping et augmentation des données Q/A avec l'API Gemini.
+### 🔍 Moteur de Recherche pour Fuites Publiques
+- Développement d’un pipeline automatisé pour le nettoyage et l’indexation des données avec un cluster ELK.
+- Utilisation de modèles de langage (BERT, T5) pour automatiser la détection des fuites.
 
-### 🧠 **Reconnaissance d'Émotions**
-- Intégration d'algorithmes de vision par ordinateur pour la détection et l'analyse d'émotions dans des flux vidéo.
+### 🤖 Chatbot Intelligent en Arabe
+- Fine-tuning de modèles LLMs (LLaMA 3.2, Mistral 7B) pour optimiser les performances du chatbot.
+- Scraping et augmentation des données Q/A avec l’API Gemini.
+
+### 🧠 Reconnaissance d’Émotions
+- Intégration d’algorithmes de vision par ordinateur pour la détection et l’analyse d’émotions dans des flux vidéo.
 - Utilisation de Google Vision API, OpenCV, et YOLO.
 
 ---
 
 ## 📚 Certifications
+
 - [Azure IA Fundamentals, Microsoft](#)
 - [Data Scientist Associate, DataCamp](https://www.datacamp.com/certificate/DSA0018223650048)
 - [Data Engineer Associate, DataCamp](https://www.datacamp.com/certificate/DEA0016782159557)
@@ -49,13 +61,15 @@ Je suis un **étudiant en ingénierie des données** passionné par l'intelligen
 ---
 
 ## 🌍 Langues
+
 - **Arabe** (Langue maternelle)  
 - **Français** (Courant)  
-- **Anglais** (Courant)  
+- **Anglais** (Courant)
 
 ---
 
 ## 🔗 Me Contacter
+
 - **Email :** habibkammoun10@gmail.com  
 - **LinkedIn :** [linkedin.com/in/habib-kammoun](http://www.linkedin.com/in/habib-kammoun)  
-- **GitHub :** [github.com/habibkammoun](https://github.com/habibkammoun)  
+- **GitHub :** [github.com/habibkammoun](https://github.com/habibkammoun)
